@@ -1,0 +1,20 @@
+# Ignore macOS system files
+.DS_Store
+
+# Ignore environment files (common across all projects)
+.env
+
+# Ignore node_modules directory in all projects
+node_modules/
+
+# Ignore build output directories in all projects
+dist/
+
+# Ignore log files
+*.log
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore backup and temporary files
+Thumbs.db
